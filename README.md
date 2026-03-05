@@ -1,4 +1,4 @@
-# UNI Katalon GitHub Actions CI 🚀
+# Katalon GitHub Actions CI 🚀
 A complete demonstration of integrating **Katalon Studio** automated test suites into **GitHub Actions** for seamless continuous integration. This repository serves as a technical case study for establishing automated quality gates in modern enterprise pipelines.
 
 ## 🎯 Objective
