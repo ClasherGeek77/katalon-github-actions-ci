@@ -1,8 +1,4 @@
-# Github-CI-Automation-Katalon 🚀
-
-[![Katalon Studio](https://img.shields.io/badge/Katalon%20Studio-Automation-success?logo=katalon)](https://katalon.com/)
-[![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-blue?logo=github-actions)](https://github.com/features/actions)
-
+# UNI Katalon GitHub Actions CI 🚀
 A complete demonstration of integrating **Katalon Studio** automated test suites into **GitHub Actions** for seamless continuous integration. This repository serves as a technical case study for establishing automated quality gates in modern enterprise pipelines.
 
 ## 🎯 Objective
